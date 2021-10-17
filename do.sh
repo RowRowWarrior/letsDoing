@@ -1,2 +1,2 @@
 #!/usr/bash
-sudo do.sh
+sudo do.sh #TODO: this is dangerous
